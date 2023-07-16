@@ -86,7 +86,7 @@ def calculate_surplus_data(sales_row):
     return surplus_data
 
 
-def update_surplus_worksheet(new_surplus_data):
+def update_surplus_worksheet(data):
     """
     Update surplus worksheet, adds a new row with the data provided
     """
